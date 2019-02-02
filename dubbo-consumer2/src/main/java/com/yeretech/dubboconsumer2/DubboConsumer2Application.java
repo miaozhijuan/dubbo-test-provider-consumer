@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DubboConsumer2Application {
 
     public static void main(String[] args) {
+
         SpringApplication.run(DubboConsumer2Application.class, args);
     }
 
